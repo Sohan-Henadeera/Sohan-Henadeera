@@ -1,7 +1,7 @@
 <h1 align="center">Sohan Henadeera</h1>
 
 <p align="center">
-  <em>Cybersecurity-focused IT Student @ University of Canberra | Building, Breaking & Hardening Apps</em>
+  <em>Cybersecurity-focused IT Student @ University of Canberra | Graduation: Late 2026</em>
 </p>
 
 <p align="center">
