@@ -47,37 +47,6 @@ A **Python + OpenCV** project using real-time webcam input to track facial movem
 Demonstrates **computer vision fundamentals**, **motion detection**, and human-computer interaction.  
 
 ---
-
-## 🧩 Projects Grid
-
-<p align="center">
-  <a href="https://github.com/Sohan-Henadeera/AIImages-Beyond-The-Brush-Website">
-    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Sohan-Henadeera&repo=AIImages-Beyond-The-Brush-Website&hide_border=true" />
-  </a>
-  <a href="https://github.com/Sohan-Henadeera/Face-Tracking-Software">
-    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Sohan-Henadeera&repo=Face-Tracking-Software&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Sohan-Henadeera/Encrypted-Password-Manager">
-    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Sohan-Henadeera&repo=Encrypted-Password-Manager&hide_border=true" />
-  </a>
-  <a href="https://github.com/Sohan-Henadeera/Calculator-with-GUI">
-    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Sohan-Henadeera&repo=Calculator-with-GUI&hide_border=true" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Snapshot
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Sohan-Henadeera&show_icons=true&hide_border=true" alt="GitHub stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan-Henadeera&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
-
----
-
 ## 🧪 Currently Building / Learning
 - CLI automation tools in Python  
 - Front-end projects with secure form handling and basic authentication  
